@@ -1,0 +1,15 @@
+/workspaces/csharpprojec2/Myproject2/bin/Debug/net8.0/Myproject2
+/workspaces/csharpprojec2/Myproject2/bin/Debug/net8.0/Myproject2.deps.json
+/workspaces/csharpprojec2/Myproject2/bin/Debug/net8.0/Myproject2.runtimeconfig.json
+/workspaces/csharpprojec2/Myproject2/bin/Debug/net8.0/Myproject2.dll
+/workspaces/csharpprojec2/Myproject2/bin/Debug/net8.0/Myproject2.pdb
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.AssemblyInfoInputs.cache
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.AssemblyInfo.cs
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.csproj.CoreCompileInputs.cache
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.sourcelink.json
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.dll
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/refint/Myproject2.dll
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.pdb
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/Myproject2.genruntimeconfig.cache
+/workspaces/csharpprojec2/Myproject2/obj/Debug/net8.0/ref/Myproject2.dll
